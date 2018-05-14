@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Generators\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StadiumShop.Domain\StadiumShop.Domain.csproj" />
+    <ProjectReference Include="..\StadiumShop.Common\StadiumShop.Common.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/bin/Debug/netstandard2.0/StadiumShop.Infra.Mongo.deps.json
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/bin/Debug/netstandard2.0/StadiumShop.Infra.Mongo.dll
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/bin/Debug/netstandard2.0/StadiumShop.Infra.Mongo.pdb
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/bin/Debug/netstandard2.0/StadiumShop.Domain.dll
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/bin/Debug/netstandard2.0/StadiumShop.Domain.pdb
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/obj/Debug/netstandard2.0/StadiumShop.Infra.Mongo.csprojResolveAssemblyReference.cache
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/obj/Debug/netstandard2.0/StadiumShop.Infra.Mongo.csproj.CoreCompileInputs.cache
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/obj/Debug/netstandard2.0/StadiumShop.Infra.Mongo.AssemblyInfoInputs.cache
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/obj/Debug/netstandard2.0/StadiumShop.Infra.Mongo.AssemblyInfo.cs
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/obj/Debug/netstandard2.0/StadiumShop.Infra.Mongo.dll
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Infra.Mongo/obj/Debug/netstandard2.0/StadiumShop.Infra.Mongo.pdb

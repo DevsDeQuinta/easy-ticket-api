@@ -1,0 +1,13 @@
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/bin/Debug/netstandard2.0/StadiumShop.Application.deps.json
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/bin/Debug/netstandard2.0/StadiumShop.Application.dll
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/bin/Debug/netstandard2.0/StadiumShop.Application.pdb
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/bin/Debug/netstandard2.0/StadiumShop.Domain.dll
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/bin/Debug/netstandard2.0/StadiumShop.Domain.pdb
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/obj/Debug/netstandard2.0/StadiumShop.Application.csproj.CoreCompileInputs.cache
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/obj/Debug/netstandard2.0/StadiumShop.Application.AssemblyInfoInputs.cache
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/obj/Debug/netstandard2.0/StadiumShop.Application.AssemblyInfo.cs
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/obj/Debug/netstandard2.0/StadiumShop.Application.dll
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/obj/Debug/netstandard2.0/StadiumShop.Application.pdb
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/obj/Debug/netstandard2.0/StadiumShop.Application.csprojResolveAssemblyReference.cache
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/bin/Debug/netstandard2.0/StadiumShop.Common.dll
+/Users/marvinthomaz/Projects/StadiumShop.Domain/StadiumShop.Application/bin/Debug/netstandard2.0/StadiumShop.Common.pdb
